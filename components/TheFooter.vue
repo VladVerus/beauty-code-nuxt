@@ -1,0 +1,6 @@
+<template>
+	<footer>Developed by Vladyslav Verus
+
+        
+    </footer>
+</template>
